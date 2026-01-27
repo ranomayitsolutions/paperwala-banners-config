@@ -1,1 +1,18 @@
-
+{"enabled": true,
+  "banners": [
+    {
+      "id": 1,
+      "imageUrl": "https://raw.githubusercontent.com/ranomayitsolutions/paperwala-banners-config/main/banners/elevate.png",
+      "clickable": false
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://raw.githubusercontent.com/ranomayitsolutions/paperwala-banners-config/main/banners/events.png",
+      "clickable": false
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://raw.githubusercontent.com/ranomayitsolutions/paperwala-banners-config/main/banners/contact.png",
+      "clickable": true
+    }
+  ]}

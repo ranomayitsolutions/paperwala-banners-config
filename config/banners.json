@@ -1,6 +1,9 @@
 {"enabled": true,
   "contact":[
     {"id":1,
+    "action":"Whatsapp",
+    "url":"https://wa.me/+923363632786"},
+    {"id":2,
     "action":"Email",
     "url":"mailto:ranomayitsolutions@gmail.com?subject=Promotion"}
   ],

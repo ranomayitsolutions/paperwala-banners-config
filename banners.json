@@ -1,0 +1,14 @@
+{"enabled": true,
+  "banners": [
+    {
+      "id": 1,
+      "imageUrl": "https://raw.githubusercontent.com/ranomayitsolutions/paperwala-banners-config/main/images/banner1.png",
+      "clickable": true,
+      "action": "https://example.com/promo1"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://raw.githubusercontent.com/ranomayitsolutions/paperwala-banners-config/main/images/banner2.png",
+      "clickable": false
+    }
+  ]}

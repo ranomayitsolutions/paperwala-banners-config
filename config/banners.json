@@ -1,5 +1,6 @@
 {"enabled": true,
   "privacy_policy_url":"https://ranomayitsolutions.github.io/paperwala-banners-config/privacy_policy.html",
+  "terms_and_conditions_url":"https://ranomayitsolutions.github.io/paperwala-banners-config/terms_and_conditions.html",
   "contact":[
     {"id":1,
     "action":"Whatsapp",

@@ -26,4 +26,23 @@
       "imageUrl": "https://raw.githubusercontent.com/ranomayitsolutions/paperwala-banners-config/main/banners/contact.png",
       "clickable": true
     }
-  ]}
+  ],
+  "how_to_use_tutorials": [
+    {
+      "id": 1,
+      "vidUrl": null,
+      "title":"Ai paper maker Tutorial"
+    },
+    {
+      "id": 2,
+      "vidUrl": "https://youtube.com/shorts/5q6RNFv-cnw?si=YZlTX9Cnfsvcc2t1",
+      "title":"Custom paper maker Tutorial"
+    },
+    {
+      "id": 3,
+      "vidUrl": null,
+      "title":"Instant paper Tutorial"
+    },
+    
+  ]
+}

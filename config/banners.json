@@ -30,17 +30,17 @@
   "how_to_use_tutorials": [
     {
       "id": 1,
-      "vidUrl": null,
+      "vidUrl": "https://youtube.com/shorts/HI3URTshGG4?feature=share",
       "title":"Ai paper maker Tutorial"
     },
     {
       "id": 2,
-      "vidUrl": "https://youtube.com/shorts/5q6RNFv-cnw?si=YZlTX9Cnfsvcc2t1",
+      "vidUrl": "https://youtube.com/shorts/BFcqIe0ouLw?feature=share",
       "title":"Custom paper maker Tutorial"
     },
     {
       "id": 3,
-      "vidUrl": null,
+      "vidUrl": "https://youtube.com/shorts/_ibplXP2Vwk?feature=share",
       "title":"Instant paper Tutorial"
     }
   ]
